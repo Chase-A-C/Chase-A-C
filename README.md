@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projecs:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle]([https://github.com/Chase-A-C/ticket-lifecycle](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/tree/bee19534dba3918f065a0f43cd3ff7db990eb68b))
+- <b>osTicket (Help Desk Ticketing System)</b>[osTicket: Ticket Lifecycle]([https://github.com/Chase-A-C/ticket-lifecycle](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/tree/bee19534dba3918f065a0f43cd3ff7db990eb68b))
 
 
 <h2>🤳Connect with me:</h2>
