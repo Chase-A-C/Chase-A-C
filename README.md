@@ -16,4 +16,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/[Chase-Chesbro](https://www.linkedin.com/in/chase-chesbro-a40b87403/)
+[linkedin]: https://linkedin.com/in/[Chase-Chesbro](https://www.linkedin.com/in/chase-chesbro/)
