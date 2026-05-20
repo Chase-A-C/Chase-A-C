@@ -16,4 +16,5 @@
 
 
 
-[linkedin]: https://linkedin.com/in/[Chase-Chesbro](https://www.linkedin.com/in/chase-chesbro/)
+[linkedin]: Connect with me on LinkedIn: https://www.linkedin.com/in/chase-chesbro-a40b87403/
+
