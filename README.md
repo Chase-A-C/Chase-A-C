@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chase, an aspiring <a [href="https://linkedin.com/in/Chase-chesbro](https://www.linkedin.com/in/chase-chesbro-a40b87403/)">IT professional and Cybersecurity Blue Teamer hoping to get into red team penetration testing</a>☺</h1>
+<h1>Hi, I'm Chase, an aspiring <a [href="https://linkedin.com/in/Chase-chesbro](https://www.linkedin.com/in/chase-chesbro-a40b87403/)">IT professional and aspiring Cybersecurity Blue Teamer hoping to get into Red Team penetration testing</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projecs:</h2>
 
